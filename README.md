@@ -17,6 +17,10 @@
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
+    "terminal.integrated.fontLigatures.enabled": true,
     "workbench.statusBar.visible": false,
-    "terminal.integrated.fontLigatures.enabled": true
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "workbench.tree.indent": 12
 }
